@@ -13,6 +13,8 @@ public class Newclass
         System.out.println("Enter rectangle Width");
         width = input.nextInt();
         area = length * width ;
-        System.out.print("area = " + area);
+        System.out.print("area = " + area); // or use print format -->    System.out.printf("area = %d",area);
+        //or
+        System.out.printf("area = %d",area);
     }
 }
