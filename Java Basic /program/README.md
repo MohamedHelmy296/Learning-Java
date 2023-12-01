@@ -1,2 +1,4 @@
 - test1 >>>>>> Get name and salary from the user and print name and net salary 
-- test2 >>>>>> Program to test number if positive or negative 
+- test2 >>>>>> Program to test number if positive or negative
+- test3 >>>>>> Program to test number is even or odd
+- 
