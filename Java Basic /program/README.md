@@ -2,4 +2,4 @@
 - test2 >>>>>> Program to test number if positive or negative
 - test3 >>>>>> Program to test number is even or odd
 - test4 >>>>>> Program to calculate the grade of the student
-- 
+- test5 >>>>>> Calculator with switch statement
