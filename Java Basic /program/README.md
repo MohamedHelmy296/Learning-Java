@@ -1,2 +1,2 @@
-test1 >>>>>> get name and salary from the user and print name and net salary 
-test2 >>>>>> program to test number if postivie or negative 
+- test1 >>>>>> Get name and salary from the user and print name and net salary 
+- test2 >>>>>> Program to test number if positive or negative 
