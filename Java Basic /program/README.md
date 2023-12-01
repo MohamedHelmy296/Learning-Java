@@ -5,4 +5,5 @@
 - test5 >>>>>> Calculator with switch statement
 - test6 >>>>>> infinite Calculator
 - test7 >>>>>> Program to sum n numbers
-- test8 >>>>>> Program that asks the user to input a positive integer. It should then print the multiplication table of that number. 
+- test8 >>>>>> Program that asks the user to input a positive integer. It should then print the multiplication table of that number.
+- test9 >>>>>> Program to find the factorial value of any number entered through the user
