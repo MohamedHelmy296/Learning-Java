@@ -15,9 +15,8 @@
                   		boolean found = false;
                   		int row = 0;
                   		int col = 0;
-                  		// find index of first int greater than 10
+                  		// find index of the first int greater than 10
                   		searchint:
-                  
                   		for (row = 0; row < arr.length; row++) {
                   			for (col = 0; col < arr[row].length; col++) {
                   				if (arr[row][col] > 10) {
@@ -33,7 +32,10 @@
                   
 }
 -----------------------------------------------------------------------------------------------------------------------------------
-
-
+label:{
+	-block of code (we want to break it)
+	-break label; >>> بيخرجني برا خالص
+	- continue label ;  بيخليني اروح ابدا من هناك واكنسل اي حاجه بعدي  
+		}
 
     
