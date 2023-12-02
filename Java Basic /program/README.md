@@ -11,3 +11,5 @@
 - test11 >>>>> correct answer? game
 - test12 >>>>> java method to find the smallest number among three numbers
 - test13 >>>>> java method to compute the average of three numbers
+- test14 >>>>> Recursion method factorial 
+- test15 >>>>> Recursion method Fibonacci
