@@ -13,6 +13,8 @@
 - test13 >>>>> java method to compute the average of three numbers
 - test14 >>>>> Recursion method factorial 
 - test15 >>>>> Recursion method Fibonacci
-- test16 >>>>> Recursion method sum the number between n1 , n2
+- test16 >>>>> Recursion method sum the number between n1, n2
 - test17 >>>>> java program to sum values of an array.
 - test18 >>>>> Program to test if an array contains a specific value.
+- test19 >>>>> java program to find the maximum and minimum value of an array.
+- test20 >>>>> java program to sort a numeric array
