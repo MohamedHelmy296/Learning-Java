@@ -18,3 +18,21 @@ public class Newclass {
 
     }
 }
+
+////////////////////////  for(int i:n) 
+import java.util.Scanner;
+public class Newclass {
+    public static int sum (int...n){ // n is an array
+        int s = 0 ;
+        for(int i:n)  //loop
+            s += i;
+        return s;
+    }
+    public static void main(String []args){
+        Scanner in = new Scanner(System.in);
+        System.out.println("sum = "+sum(1,2,2,5,8,10)); //any number of parameter
+
+
+
+    }
+}
