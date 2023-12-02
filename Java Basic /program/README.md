@@ -14,4 +14,5 @@
 - test14 >>>>> Recursion method factorial 
 - test15 >>>>> Recursion method Fibonacci
 - test16 >>>>> Recursion method sum the number between n1 , n2
-- test17 >>>>> java program to sum values of an array
+- test17 >>>>> java program to sum values of an array.
+- test18 >>>>> Program to test if an array contains a specific value.
