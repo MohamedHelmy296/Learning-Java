@@ -9,3 +9,5 @@
 - test9 >>>>>> Program to find the factorial value of any number entered through the user
 - test10 >>>>> program to enter 10 integer numbers from the user, and then prints the sum of the even and odd integers
 - test11 >>>>> correct answer? game
+- test12 >>>>> java method to find the smallest number among three numbers
+- test13 >>>>> java method to compute the average of three numbers
