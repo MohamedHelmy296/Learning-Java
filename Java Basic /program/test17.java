@@ -18,7 +18,7 @@ public class Newclass {
         {
             sum += array[j];
         }
-        System.out.println("the sum2 : "+sum/array.length);
+        System.out.println("the sum2 : "+(double)sum/array.length);
 
     }
 }
